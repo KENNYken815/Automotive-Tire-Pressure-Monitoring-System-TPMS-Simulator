@@ -1,0 +1,1 @@
+run:\n\tpython3 run_demo.py\ntest:\n\tpython3 -m unittest discover -s tests -v\n.PHONY: run test\n
